@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniele Beninato's CV
 ---
-# Isaac Newton
+# Daniele Beninato
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
